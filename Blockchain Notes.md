@@ -1,12 +1,12 @@
 Blockchain
 Basics
-•	Decentralized
-•	Transparent
-•	Speed
-•	Immutable and security 
-•	Remove counterparty risk
-•	Trust minimized agreements math-based agreements
-•	Hybrid Smart contracts combine on and off-chain: smart contracts with oracle(data)
+1.	Decentralized
+2.	Transparent
+3.	Speed
+4.	Immutable and security 
+5.	Remove counterparty risk
+6.	Trust minimized agreements math-based agreements
+7.	Hybrid Smart contracts combine on and off-chain: smart contracts with oracle(data)
 
 
 DAO’s: decentralized autonomous organizations
